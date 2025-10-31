@@ -18,4 +18,4 @@ date: 2025-10-30
 ---
 
 ## 🔗 Navigation
-[Education](/education/) | [Experience](/experience/) | [Projects](/projects/) | [Contact](/contact/)
+[Education]({{< relref "education.md" >}}) | [Experience]({{< relref "experience.md" >}}) | [Projects]({{< relref "projects.md" >}}) | [Contact]({{< relref "contact.md" >}})

@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>About Laidai on My Hugo Site</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content in About Laidai on My Hugo Site</description>
+    <title>About Laidai on Laidai</title>
+    <link>http://localhost:1313/my-hugo-site/</link>
+    <description>Recent content in About Laidai on Laidai</description>
     <generator>Hugo -- 0.152.2</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/my-hugo-site/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Contact</title>
-      <link>http://localhost:1313/contact/</link>
+      <link>http://localhost:1313/my-hugo-site/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/contact/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://localhost:1313/&#34;&gt;🏠 Back to Home&lt;/a&gt;&lt;/p&gt;
+      <guid>http://localhost:1313/my-hugo-site/contact/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://localhost:1313/my-hugo-site/&#34;&gt;🏠 Back to Home&lt;/a&gt;&lt;/p&gt;
 &lt;h1 id=&#34;-contact&#34;&gt;✉️ Contact&lt;/h1&gt;
 &lt;form action=&#34;https://formspree.io/f/xanlprbd&#34; method=&#34;POST&#34; style=&#34;max-width:400px; margin:auto; background:#f9f9f9; padding:20px; border-radius:10px; box-shadow:0 2px 5px rgba(0,0,0,0.1);&#34;&gt;
   &lt;label style=&#34;display:block; margin-bottom:8px; font-weight:bold;&#34;&gt;Name:&lt;/label&gt;
@@ -29,10 +29,10 @@
     </item>
     <item>
       <title>Education</title>
-      <link>http://localhost:1313/education/</link>
+      <link>http://localhost:1313/my-hugo-site/education/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/education/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://localhost:1313/&#34;&gt;🏠 Back to Home&lt;/a&gt;&lt;/p&gt;
+      <guid>http://localhost:1313/my-hugo-site/education/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://localhost:1313/my-hugo-site/&#34;&gt;🏠 Back to Home&lt;/a&gt;&lt;/p&gt;
 &lt;h1 id=&#34;-education&#34;&gt;🎓 Education&lt;/h1&gt;
 &lt;p&gt;&lt;strong&gt;Northwestern University&lt;/strong&gt;, Evanston, IL&lt;br&gt;
 &lt;em&gt;Master of Science in Artificial Intelligence, McCormick School of Engineering&lt;/em&gt;&lt;br&gt;
@@ -43,10 +43,10 @@
     </item>
     <item>
       <title>Experience</title>
-      <link>http://localhost:1313/experience/</link>
+      <link>http://localhost:1313/my-hugo-site/experience/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/experience/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://localhost:1313/&#34;&gt;🏠 Back to Home&lt;/a&gt;&lt;/p&gt;
+      <guid>http://localhost:1313/my-hugo-site/experience/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://localhost:1313/my-hugo-site/&#34;&gt;🏠 Back to Home&lt;/a&gt;&lt;/p&gt;
 &lt;h1 id=&#34;-experience&#34;&gt;💼 Experience&lt;/h1&gt;
 &lt;p&gt;&lt;strong&gt;Northwestern University &amp;amp; Abbott&lt;/strong&gt;, Evanston, IL&lt;br&gt;
 &lt;em&gt;Assistant Research Algorithm Engineer · Deep Learning–based PII/PHI Anonymization&lt;/em&gt;&lt;br&gt;
@@ -61,10 +61,10 @@
     </item>
     <item>
       <title>Projects</title>
-      <link>http://localhost:1313/projects/</link>
+      <link>http://localhost:1313/my-hugo-site/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://localhost:1313/&#34;&gt;🏠 Back to Home&lt;/a&gt;&lt;/p&gt;
+      <guid>http://localhost:1313/my-hugo-site/projects/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://localhost:1313/my-hugo-site/&#34;&gt;🏠 Back to Home&lt;/a&gt;&lt;/p&gt;
 &lt;h1 id=&#34;-projects&#34;&gt;🧠 Projects&lt;/h1&gt;
 &lt;p&gt;&lt;strong&gt;Text-to-Image Person Re-Identification Based on Multimodal Pre-Training Models&lt;/strong&gt;&lt;br&gt;
 &lt;em&gt;09/2023 – 06/2024&lt;/em&gt;&lt;/p&gt;

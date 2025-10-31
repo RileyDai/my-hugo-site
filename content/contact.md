@@ -1,7 +1,8 @@
 ---
 title: "Contact"
 ---
-[🏠 Back to Home](/)
+
+[🏠 Back to Home]({{< relref "/" >}})
 
 # ✉️ Contact
 

@@ -2,7 +2,7 @@
 title: "Projects"
 ---
 
-[🏠 Back to Home](/)
+[🏠 Back to Home]({{< relref "/" >}})
 
 # 🧠 Projects
 

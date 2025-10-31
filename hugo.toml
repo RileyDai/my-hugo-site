@@ -1,6 +1,6 @@
-baseURL = "http://example.org/"
+baseURL = "https://rileydai.github.io/my-hugo-site/"
 languageCode = "en-us"
-title = "My Hugo Site"
+title = "Laidai"
 theme = "PaperMod"
 [markup]
   [markup.goldmark]
