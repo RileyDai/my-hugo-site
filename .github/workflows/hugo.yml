@@ -3,7 +3,7 @@ name: Deploy Hugo site to Pages
 on:
   push:
     branches:
-      - main  # 每次推送 main 分支时自动部署
+      - master
 
 jobs:
   build:
